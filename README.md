@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/AndPrim/Class-1.2.-Testing-API-CI-Postman-Echo/actions/workflows/gradle.yml/badge.svg)](https://github.com/AndPrim/Class-1.2.-Testing-API-CI-Postman-Echo/actions/workflows/gradle.yml)
